@@ -1,0 +1,2 @@
+( [s3]=S3BUCKET/folder [local]=/my/local/path1 )
+( [s3]=S3BUCKET/folder2 [local]=/my/local/path2 )
