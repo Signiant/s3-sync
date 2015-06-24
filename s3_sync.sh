@@ -9,6 +9,10 @@ if [ -z "$FREQUENCY" ]; then
 	FREQUENCY=300
 fi
 
+if [ -z "VERBOSE" ]; then
+	VERBOSE=0
+fi
+
 echo "Verbose is $VERBOSE"
 echo "Frequency is $FREQUENCY"
  
